@@ -20,7 +20,7 @@
     "require": {
         "php": ">=7.4",
         "composer/installers": "^2.0.1",
-        "ps/image-optimizer": "^2.0.5",
+        "ps/image-optimizer": "^2.0.5 | dev-master",
         "psr/log": "^1.0.0"
     },
     "require-dev": {
